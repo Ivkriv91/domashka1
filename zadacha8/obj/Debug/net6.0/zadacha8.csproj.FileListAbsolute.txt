@@ -1,0 +1,15 @@
+/Users/ivankrivonos/Desktop/Учеба/SEM_01/demonstration/zadacha8/bin/Debug/net6.0/zadacha8
+/Users/ivankrivonos/Desktop/Учеба/SEM_01/demonstration/zadacha8/bin/Debug/net6.0/zadacha8.deps.json
+/Users/ivankrivonos/Desktop/Учеба/SEM_01/demonstration/zadacha8/bin/Debug/net6.0/zadacha8.runtimeconfig.json
+/Users/ivankrivonos/Desktop/Учеба/SEM_01/demonstration/zadacha8/bin/Debug/net6.0/zadacha8.dll
+/Users/ivankrivonos/Desktop/Учеба/SEM_01/demonstration/zadacha8/bin/Debug/net6.0/zadacha8.pdb
+/Users/ivankrivonos/Desktop/Учеба/SEM_01/demonstration/zadacha8/obj/Debug/net6.0/zadacha8.csproj.AssemblyReference.cache
+/Users/ivankrivonos/Desktop/Учеба/SEM_01/demonstration/zadacha8/obj/Debug/net6.0/zadacha8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivankrivonos/Desktop/Учеба/SEM_01/demonstration/zadacha8/obj/Debug/net6.0/zadacha8.AssemblyInfoInputs.cache
+/Users/ivankrivonos/Desktop/Учеба/SEM_01/demonstration/zadacha8/obj/Debug/net6.0/zadacha8.AssemblyInfo.cs
+/Users/ivankrivonos/Desktop/Учеба/SEM_01/demonstration/zadacha8/obj/Debug/net6.0/zadacha8.csproj.CoreCompileInputs.cache
+/Users/ivankrivonos/Desktop/Учеба/SEM_01/demonstration/zadacha8/obj/Debug/net6.0/zadacha8.dll
+/Users/ivankrivonos/Desktop/Учеба/SEM_01/demonstration/zadacha8/obj/Debug/net6.0/refint/zadacha8.dll
+/Users/ivankrivonos/Desktop/Учеба/SEM_01/demonstration/zadacha8/obj/Debug/net6.0/zadacha8.pdb
+/Users/ivankrivonos/Desktop/Учеба/SEM_01/demonstration/zadacha8/obj/Debug/net6.0/zadacha8.genruntimeconfig.cache
+/Users/ivankrivonos/Desktop/Учеба/SEM_01/demonstration/zadacha8/obj/Debug/net6.0/ref/zadacha8.dll
